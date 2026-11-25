@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "0362ff82-1c1e-4667-a68a-d6cd6b7f2778",
+    "title": "BBB — หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-12T21:31:03.201Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "bbbbb.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:31:03.203Z",
+        "size": 123459
+      }
+    ]
+  },
+  {
+    "id": "242fb393-6065-41bb-9b5f-bb49cd54e15a",
+    "title": "BBB — สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:31:03.229Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "bbbbb.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:31:03.232Z",
+        "size": 123459
+      }
+    ]
+  },
+  {
+    "id": "7dee1931-d422-4a8f-972d-e7beef39dc21",
+    "title": "BBB — สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:31:03.265Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "bbbbb.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:31:03.267Z",
+        "size": 123459
+      }
+    ]
+  },
+  {
+    "id": "185c7d2b-ae3b-4928-8e4a-dfae3436c054",
+    "title": "BBB — สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:31:03.334Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "bbbbb.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:31:03.337Z",
+        "size": 123459
+      }
+    ]
+  },
+  {
+    "id": "69c1c1bd-8302-424f-bd71-e2f72631df8a",
+    "title": "BBB — สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-12T21:31:03.358Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "bbbbb.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:31:03.360Z",
+        "size": 123459
+      }
+    ]
+  },
+  {
+    "id": "d33823df-11f4-48a8-86cf-43386d0a673e",
+    "title": "test",
+    "createdAt": "2026-11-12T21:49:35.429Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "test.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:49:35.431Z",
+        "size": 388297
+      }
+    ]
+  },
+  {
+    "id": "62ca9e5c-efe5-4e04-a975-a6247b9a0a27",
+    "title": "test",
+    "createdAt": "2026-11-12T21:49:35.455Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "test.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:49:35.457Z",
+        "size": 388297
+      }
+    ]
+  },
+  {
+    "id": "f6733bc5-56ba-434f-884a-cac4490e85b5",
+    "title": "test",
+    "createdAt": "2026-11-12T21:49:35.561Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "test.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:49:35.566Z",
+        "size": 388297
+      }
+    ]
+  },
+  {
+    "id": "014e820e-88f0-47c7-a56c-2b58c086cc85",
+    "title": "test",
+    "createdAt": "2026-11-12T21:49:35.581Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "test.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:49:35.583Z",
+        "size": 388297
+      }
+    ]
+  },
+  {
+    "id": "d225e896-efea-4e7f-885a-d12ffa92c016",
+    "title": "test",
+    "createdAt": "2026-11-12T21:49:35.598Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "test.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T21:49:35.601Z",
+        "size": 388297
+      }
+    ]
+  },
+  {
+    "id": "58c8e4a8-0f19-4439-bb07-02e5bbd019ef",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "BBBB - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-12T21:57:59.128Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-12T21:57:59.131Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-12T22:04:07.373Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v3.pdf",
+        "uploadedAt": "2026-11-12T22:29:33.528Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ชี้ชวน.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v4.pdf",
+        "uploadedAt": "2026-11-20T16:38:31.315Z",
+        "size": 69287
+      },
+      {
+        "version": "v5",
+        "fileName": "ชี้ชวน.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v5.pdf",
+        "uploadedAt": "2026-11-20T16:44:23.917Z",
+        "size": 69287
+      }
+    ]
+  },
+  {
+    "id": "50f05ea2-da91-4d43-8a42-7e2bef94821a",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBBB - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:57:59.149Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-12T21:57:59.151Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-12T22:04:07.393Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v3.pdf",
+        "uploadedAt": "2026-11-12T22:29:33.550Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "สำเนาหนังสือรับรองบริษัท.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v4.pdf",
+        "uploadedAt": "2026-11-20T16:38:31.342Z",
+        "size": 138609
+      },
+      {
+        "version": "v5",
+        "fileName": "สำเนาหนังสือรับรองบริษัท.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v5.pdf",
+        "uploadedAt": "2026-11-20T16:44:23.937Z",
+        "size": 138609
+      }
+    ]
+  },
+  {
+    "id": "f6ff39b5-a36c-460b-9652-bf68687b78d8",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBBB - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:57:59.169Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-12T21:57:59.177Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-12T22:04:07.416Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v3.pdf",
+        "uploadedAt": "2026-11-12T22:29:33.620Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปชช.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v4.pdf",
+        "uploadedAt": "2026-11-20T16:38:31.378Z",
+        "size": 40598
+      },
+      {
+        "version": "v5",
+        "fileName": "ปชช.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v5.pdf",
+        "uploadedAt": "2026-11-20T16:44:23.953Z",
+        "size": 40598
+      }
+    ]
+  },
+  {
+    "id": "b599e3a6-2b67-489a-b5b9-5f2c11485d1d",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBBB - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T21:57:59.239Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-12T21:57:59.241Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-12T22:04:07.445Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v3.pdf",
+        "uploadedAt": "2026-11-12T22:29:33.636Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v4.pdf",
+        "uploadedAt": "2026-11-20T16:38:31.390Z",
+        "size": 24104
+      },
+      {
+        "version": "v5",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v5.pdf",
+        "uploadedAt": "2026-11-20T16:44:23.970Z",
+        "size": 24104
+      }
+    ]
+  },
+  {
+    "id": "88aac857-54da-4ee4-b5d2-b02d14a135e5",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "BBBB - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-12T21:57:59.254Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-12T21:57:59.257Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-12T22:04:07.512Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v3.pdf",
+        "uploadedAt": "2026-11-12T22:29:33.651Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v4.pdf",
+        "uploadedAt": "2026-11-20T16:38:31.407Z",
+        "size": 880032
+      },
+      {
+        "version": "v5",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v5.pdf",
+        "uploadedAt": "2026-11-20T16:44:23.993Z",
+        "size": 880032
+      }
+    ]
+  },
+  {
+    "id": "f62466b1-3647-4f06-b2d7-83e67f2e76c4",
+    "issuer": "aaa",
+    "symbol": "aaa",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "aaa - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-12T22:44:28.018Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "aaa-9834876d\\aaa-9834876d\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-12T22:44:28.020Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "9c9e3d2b-742b-43d5-a75a-53a0e4bd5a1f",
+    "issuer": "aaa",
+    "symbol": "aaa",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "aaa - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T22:44:28.043Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "aaa-9834876d\\aaa-9834876d\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-12T22:44:28.049Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "31bb456a-2895-47fa-99c0-ff12579b2cb5",
+    "issuer": "aaa",
+    "symbol": "aaa",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "aaa - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T22:44:28.117Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "aaa-9834876d\\aaa-9834876d\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-12T22:44:28.119Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "74ac893f-5c84-4ee2-8f55-a8f12f00f2f5",
+    "issuer": "aaa",
+    "symbol": "aaa",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "aaa - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T22:44:28.134Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "aaa-9834876d\\aaa-9834876d\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-12T22:44:28.136Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "bad8a631-328c-4296-a036-f8aa2eaa8240",
+    "issuer": "aaa",
+    "symbol": "aaa",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "aaa - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-12T22:44:28.152Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "aaa-9834876d\\aaa-9834876d\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-12T22:44:28.154Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "d38781b2-8be9-47e5-a050-3e9cbf864664",
+    "title": "fff — fff",
+    "issuer": "fff",
+    "symbol": "fff",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-12T23:26:52.704Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T23:26:52.706Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "uploadedAt": "2026-11-12T23:26:57.756Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "uploadedAt": "2026-11-12T23:30:12.949Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "uploadedAt": "2026-11-12T23:31:42.263Z",
+        "size": 103946
+      },
+      {
+        "version": "v5",
+        "fileName": "ปก.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v5.pdf",
+        "uploadedAt": "2026-11-12T23:37:17.064Z",
+        "size": 103946
+      },
+      {
+        "version": "v6",
+        "fileName": "ปก.pdf",
+        "storedName": "v6.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v6.pdf",
+        "uploadedAt": "2026-11-12T23:38:29.239Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "2359fa5f-7961-4efc-a588-b52b36118c76",
+    "title": "fff — fff",
+    "issuer": "fff",
+    "symbol": "fff",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:26:52.723Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T23:26:52.725Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "uploadedAt": "2026-11-12T23:26:57.774Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "uploadedAt": "2026-11-12T23:30:12.964Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "uploadedAt": "2026-11-12T23:31:42.302Z",
+        "size": 103946
+      },
+      {
+        "version": "v5",
+        "fileName": "ปก.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v5.pdf",
+        "uploadedAt": "2026-11-12T23:37:17.081Z",
+        "size": 103946
+      },
+      {
+        "version": "v6",
+        "fileName": "ปก.pdf",
+        "storedName": "v6.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v6.pdf",
+        "uploadedAt": "2026-11-12T23:38:29.258Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "8e0c4e16-c9b9-4dc2-9301-1818022f4920",
+    "title": "fff — fff",
+    "issuer": "fff",
+    "symbol": "fff",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:26:52.739Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T23:26:52.741Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "uploadedAt": "2026-11-12T23:26:57.788Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "uploadedAt": "2026-11-12T23:30:12.980Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "uploadedAt": "2026-11-12T23:31:42.321Z",
+        "size": 103946
+      },
+      {
+        "version": "v5",
+        "fileName": "ปก.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v5.pdf",
+        "uploadedAt": "2026-11-12T23:37:17.096Z",
+        "size": 103946
+      },
+      {
+        "version": "v6",
+        "fileName": "ปก.pdf",
+        "storedName": "v6.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v6.pdf",
+        "uploadedAt": "2026-11-12T23:38:29.275Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "03d4e67e-1651-4fb8-a445-e03f5223d50f",
+    "title": "fff — fff",
+    "issuer": "fff",
+    "symbol": "fff",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:26:52.753Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T23:26:52.754Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "uploadedAt": "2026-11-12T23:26:57.803Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "uploadedAt": "2026-11-12T23:30:12.995Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "uploadedAt": "2026-11-12T23:31:42.336Z",
+        "size": 103946
+      },
+      {
+        "version": "v5",
+        "fileName": "ปก.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v5.pdf",
+        "uploadedAt": "2026-11-12T23:37:17.110Z",
+        "size": 103946
+      },
+      {
+        "version": "v6",
+        "fileName": "ปก.pdf",
+        "storedName": "v6.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v6.pdf",
+        "uploadedAt": "2026-11-12T23:38:29.289Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "e5a6f95a-cc64-470c-811a-3d307acba854",
+    "title": "fff — fff",
+    "issuer": "fff",
+    "symbol": "fff",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-12T23:26:52.769Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "uploadedAt": "2026-11-12T23:26:52.771Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "uploadedAt": "2026-11-12T23:26:57.818Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "uploadedAt": "2026-11-12T23:30:13.009Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "uploadedAt": "2026-11-12T23:31:42.350Z",
+        "size": 103946
+      },
+      {
+        "version": "v5",
+        "fileName": "ปก.pdf",
+        "storedName": "v5.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v5.pdf",
+        "uploadedAt": "2026-11-12T23:37:17.124Z",
+        "size": 103946
+      },
+      {
+        "version": "v6",
+        "fileName": "ปก.pdf",
+        "storedName": "v6.pdf",
+        "storagePath": "fff-f284bdc3\\fff-f284bdc3\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v6.pdf",
+        "uploadedAt": "2026-11-12T23:38:29.305Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "42e7246a-55b4-4852-9781-8a471ef6fc71",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "ggg - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-12T23:54:40.449Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-12T23:54:40.452Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-12T23:58:51.846Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:05:50.452Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "ddc14d99-f297-4094-bd62-9936136af494",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "ggg - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:54:40.469Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-12T23:54:40.471Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-12T23:58:51.863Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:05:50.485Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "92947601-2851-4467-be4c-6eff9571053a",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "ggg - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:54:40.485Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-12T23:54:40.486Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-12T23:58:51.880Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:05:50.771Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "9715129c-39c1-43fd-ba08-fadf3d872216",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "ggg - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-12T23:54:40.500Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-12T23:54:40.502Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-12T23:58:51.897Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:05:50.787Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "e5c3d875-3c39-4e6c-a813-c5ee7175f39d",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "ggg - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-12T23:54:40.514Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-12T23:54:40.516Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-12T23:58:51.912Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:05:50.804Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "42b3086b-b369-4b02-bd46-c5de70414814",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "ใบรับเอกสาร",
+    "title": "ggg - ใบรับเอกสาร",
+    "createdAt": "2026-11-13T00:05:53.980Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261113-0040-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:05:53.982Z",
+        "size": 151161
+      }
+    ]
+  },
+  {
+    "id": "dec94114-d78f-4064-8040-08f9205d4b54",
+    "issuer": "ggg",
+    "symbol": "ggg",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "ggg - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-13T00:05:53.995Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261113-0040-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\ggg-569c7f0b\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:05:53.996Z",
+        "size": 93321
+      }
+    ]
+  },
+  {
+    "id": "d9626637-ca59-4509-a354-063b5f46d78e",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "rrr - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-13T00:13:18.191Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:18.193Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:35.858Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:26:59.913Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:13.546Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "45778926-a61d-4940-a572-7d30b5be474d",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "rrr - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-13T00:13:18.219Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:18.222Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:35.878Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:26:59.937Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:13.566Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "7c84573d-ef02-4b9a-a40c-3a3ce2ceb90b",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "rrr - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-13T00:13:18.268Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:18.270Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:35.895Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:26:59.981Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:13.584Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "851fa77c-ac60-4aca-a449-d0eb7beecf5f",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "rrr - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-13T00:13:18.284Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:18.285Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:35.911Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:26:59.995Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:13.599Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "23a40e27-088d-47a4-92b7-1913ebf8462c",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "rrr - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-13T00:13:18.301Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปก.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:18.302Z",
+        "size": 103946
+      },
+      {
+        "version": "v2",
+        "fileName": "ปก.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:35.926Z",
+        "size": 103946
+      },
+      {
+        "version": "v3",
+        "fileName": "ปก.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:27:00.011Z",
+        "size": 103946
+      },
+      {
+        "version": "v4",
+        "fileName": "ปก.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:13.615Z",
+        "size": 103946
+      }
+    ]
+  },
+  {
+    "id": "c87d9a9a-9254-4f56-93c2-a0b76b7fc598",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "ใบรับเอกสาร",
+    "title": "rrr - ใบรับเอกสาร",
+    "createdAt": "2026-11-13T00:13:21.323Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261113-0041-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:21.325Z",
+        "size": 151161
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261113-0042-ใบรับเอกสาร.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\ใบรับเอกสาร-a0706043\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:38.808Z",
+        "size": 151161
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261113-0042-ใบรับเอกสาร.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\ใบรับเอกสาร-a0706043\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:27:02.905Z",
+        "size": 151161
+      },
+      {
+        "version": "v4",
+        "fileName": "DOC-20261113-0042-ใบรับเอกสาร.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\ใบรับเอกสาร-a0706043\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:16.690Z",
+        "size": 151161
+      }
+    ]
+  },
+  {
+    "id": "2d541e10-02cf-4095-8f3e-a0b6ead007af",
+    "issuer": "rrr",
+    "symbol": "rrr",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "rrr - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-13T00:13:21.339Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261113-0041-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-13T00:13:21.340Z",
+        "size": 93056
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261113-0042-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v2.pdf",
+        "uploadedAt": "2026-11-13T00:16:38.822Z",
+        "size": 93073
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261113-0042-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v3.pdf",
+        "uploadedAt": "2026-11-13T00:27:02.933Z",
+        "size": 92212
+      },
+      {
+        "version": "v4",
+        "fileName": "DOC-20261113-0042-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "rrr-12b0f0dc\\rrr-12b0f0dc\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v4.pdf",
+        "uploadedAt": "2026-11-13T02:02:16.706Z",
+        "size": 92377
+      }
+    ]
+  },
+  {
+    "id": "a18d72e5-22eb-43c2-ac0f-68d6d7d88f75",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "atom - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-19T06:35:19.309Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:35:19.315Z",
+        "size": 50207
+      },
+      {
+        "version": "v2",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-19T06:40:29.567Z",
+        "size": 47645
+      },
+      {
+        "version": "v3",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v3.pdf",
+        "uploadedAt": "2026-11-19T09:49:40.036Z",
+        "size": 47645
+      },
+      {
+        "version": "v4",
+        "fileName": "er_diagram_debt_system.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v4.pdf",
+        "uploadedAt": "2026-11-19T10:01:15.451Z",
+        "size": 41956
+      }
+    ]
+  },
+  {
+    "id": "fdbcd625-b1e1-4a64-954e-7a72d7a9a6e6",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T06:35:19.433Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk12scum.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:35:19.436Z",
+        "size": 54969
+      },
+      {
+        "version": "v2",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-19T06:40:30.189Z",
+        "size": 50207
+      },
+      {
+        "version": "v3",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk12scum.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v3.pdf",
+        "uploadedAt": "2026-11-19T09:49:40.078Z",
+        "size": 54969
+      },
+      {
+        "version": "v4",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v4.pdf",
+        "uploadedAt": "2026-11-19T10:01:15.505Z",
+        "size": 47645
+      }
+    ]
+  },
+  {
+    "id": "122cd27a-4d90-4942-812e-97fecb778a06",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T06:35:19.475Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk12scum.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:35:19.481Z",
+        "size": 54969
+      },
+      {
+        "version": "v2",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-19T06:40:30.230Z",
+        "size": 50207
+      },
+      {
+        "version": "v3",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v3.pdf",
+        "uploadedAt": "2026-11-19T09:49:40.153Z",
+        "size": 50207
+      },
+      {
+        "version": "v4",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v4.pdf",
+        "uploadedAt": "2026-11-19T10:01:15.568Z",
+        "size": 47645
+      }
+    ]
+  },
+  {
+    "id": "9b7b274d-5e3e-4a30-8df3-0f9b96d08e20",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T06:35:19.582Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:35:19.585Z",
+        "size": 50207
+      },
+      {
+        "version": "v2",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-19T06:40:30.319Z",
+        "size": 50207
+      },
+      {
+        "version": "v3",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v3.pdf",
+        "uploadedAt": "2026-11-19T09:49:40.202Z",
+        "size": 50207
+      },
+      {
+        "version": "v4",
+        "fileName": "er_diagram_debt_system.pdf",
+        "storedName": "v4.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v4.pdf",
+        "uploadedAt": "2026-11-19T10:01:15.653Z",
+        "size": 41956
+      }
+    ]
+  },
+  {
+    "id": "119fe75d-3c42-4624-bb1f-467fc4842215",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "atom - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-19T06:40:30.366Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:40:30.371Z",
+        "size": 50207
+      }
+    ]
+  },
+  {
+    "id": "9101c350-5789-4bcf-be7e-4b14f874da63",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "ใบรับเอกสาร",
+    "title": "atom - ใบรับเอกสาร",
+    "createdAt": "2026-11-19T06:40:34.241Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0032-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:40:34.247Z",
+        "size": 73238
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261119-0032-ใบรับเอกสาร.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\ใบรับเอกสาร-a0706043\\v2.pdf",
+        "uploadedAt": "2026-11-19T09:49:42.763Z",
+        "size": 73238
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261119-0032-ใบรับเอกสาร.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\ใบรับเอกสาร-a0706043\\v3.pdf",
+        "uploadedAt": "2026-11-19T10:01:18.292Z",
+        "size": 73238
+      }
+    ]
+  },
+  {
+    "id": "6284289c-163a-461a-b915-d1f49deb2a29",
+    "issuer": "chanakan",
+    "symbol": "atom",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "atom - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-19T06:40:34.399Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0032-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-19T06:40:34.406Z",
+        "size": 59984
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261119-0032-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v2.pdf",
+        "uploadedAt": "2026-11-19T09:49:42.807Z",
+        "size": 59986
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261119-0032-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "chanakan-5c387c46\\atom-1bf52183\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v3.pdf",
+        "uploadedAt": "2026-11-19T10:01:18.320Z",
+        "size": 59761
+      }
+    ]
+  },
+  {
+    "id": "605acc9f-5771-420c-91d6-e2700fee0357",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "atom - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-19T09:47:59.554Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "er_diagram_debt_system.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:47:59.568Z",
+        "size": 41956
+      }
+    ]
+  },
+  {
+    "id": "983aad9e-5309-4c9b-b5c4-ca0d22e4979f",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:47:59.680Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:47:59.683Z",
+        "size": 47645
+      }
+    ]
+  },
+  {
+    "id": "48f9dd76-6e43-4ca6-89e5-be80bec2426e",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:47:59.732Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:47:59.736Z",
+        "size": 50207
+      }
+    ]
+  },
+  {
+    "id": "68e428c0-aa4c-4af4-b27f-a459ad97d8e4",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "atom - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:47:59.842Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk12scum.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:47:59.845Z",
+        "size": 54969
+      }
+    ]
+  },
+  {
+    "id": "e6e98faa-35f7-484a-9414-f8496ebc5790",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "atom - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-19T09:47:59.878Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญวัฒน์_ศิริรัชทรัพย์_wk11Agile.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:47:59.882Z",
+        "size": 50207
+      }
+    ]
+  },
+  {
+    "id": "492417ec-c73d-4d31-bfd4-bcba5fa89680",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "ใบรับเอกสาร",
+    "title": "atom - ใบรับเอกสาร",
+    "createdAt": "2026-11-19T09:48:03.996Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0034-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:48:03.999Z",
+        "size": 73238
+      }
+    ]
+  },
+  {
+    "id": "ad3d36c1-50f6-4f5d-be3c-b211c86dd3fa",
+    "issuer": "ประภัทสร",
+    "symbol": "atom",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "atom - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-19T09:48:04.022Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0034-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\atom-1bf52183\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:48:04.025Z",
+        "size": 70730
+      }
+    ]
+  },
+  {
+    "id": "6091d512-4cd6-49cf-a632-7e43d75b525b",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "FAASS - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-19T09:53:19.658Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:19.661Z",
+        "size": 47645
+      }
+    ]
+  },
+  {
+    "id": "55fc3e55-f29e-424f-a27b-c3fff0797407",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "FAASS - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:53:19.699Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "er_diagram_debt_system.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:19.705Z",
+        "size": 41956
+      }
+    ]
+  },
+  {
+    "id": "e3da68fc-804d-4f9a-9a74-53d7f6b238c0",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "FAASS - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:53:19.812Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "er_diagram_debt_system.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:19.814Z",
+        "size": 41956
+      }
+    ]
+  },
+  {
+    "id": "15689283-aa1f-4423-99a8-97206e085afe",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "FAASS - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-19T09:53:19.849Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "68060537_ปัญญว้ฒน์_ศิริรัชทรัพย์_Development, Testing, Deployment and Maintenance.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:19.852Z",
+        "size": 47645
+      }
+    ]
+  },
+  {
+    "id": "cc79d1b4-c6d4-48f7-8e84-95a9e74e630d",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "ใบรับเอกสาร",
+    "title": "FAASS - ใบรับเอกสาร",
+    "createdAt": "2026-11-19T09:53:22.452Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0035-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:22.456Z",
+        "size": 73238
+      }
+    ]
+  },
+  {
+    "id": "61e8a705-f864-4555-ba2b-ba20eb3435d2",
+    "issuer": "ประภัทสร",
+    "symbol": "FAASS",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "FAASS - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-19T09:53:22.490Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261119-0035-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ประภัทสร-485c41f1\\FAASS-2b8bc3fd\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-19T09:53:22.495Z",
+        "size": 70503
+      }
+    ]
+  },
+  {
+    "id": "528ea5b8-1d05-4655-ba1a-01431109537d",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "ใบรับเอกสาร",
+    "title": "BBBB - ใบรับเอกสาร",
+    "createdAt": "2026-11-20T16:44:33.348Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261120-0002-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:44:33.349Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "4d76639a-9514-4ba3-9fc4-fa5257172eb7",
+    "issuer": "BBBB",
+    "symbol": "BBBB",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "BBBB - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-20T16:44:33.361Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261120-0002-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBBB-81cc5b17\\BBBB-81cc5b17\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:44:33.362Z",
+        "size": 67180
+      }
+    ]
+  },
+  {
+    "id": "922daba4-020c-4ff4-9213-dd869b24121f",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "BBB - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-20T16:51:16.644Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:16.647Z",
+        "size": 69287
+      },
+      {
+        "version": "v2",
+        "fileName": "ชี้ชวน.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:47.073Z",
+        "size": 69287
+      }
+    ]
+  },
+  {
+    "id": "c8d33317-7ebc-45c2-87bf-065488ce82d4",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBB - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-20T16:51:16.666Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือรับรองบริษัท.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:16.668Z",
+        "size": 138609
+      },
+      {
+        "version": "v2",
+        "fileName": "ปชช.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:47.093Z",
+        "size": 40598
+      }
+    ]
+  },
+  {
+    "id": "c562dd81-3b91-4a2e-b8ca-66d84920c588",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBB - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-20T16:51:16.688Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:16.691Z",
+        "size": 40598
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:47.146Z",
+        "size": 880032
+      }
+    ]
+  },
+  {
+    "id": "30a0e08e-46a9-4a8f-accf-a36e0b35a60e",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "BBB - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-20T16:51:16.753Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:16.755Z",
+        "size": 24104
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:47.161Z",
+        "size": 24104
+      }
+    ]
+  },
+  {
+    "id": "0e5ed90c-88eb-4aff-92f5-1380c9d1e29c",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "BBB - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-20T16:51:16.772Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:16.777Z",
+        "size": 880032
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:47.182Z",
+        "size": 880032
+      }
+    ]
+  },
+  {
+    "id": "4ad0199f-63d4-4ef0-b35e-1a10e252607b",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "ใบรับเอกสาร",
+    "title": "BBB - ใบรับเอกสาร",
+    "createdAt": "2026-11-20T16:51:18.769Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261120-0003-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:18.770Z",
+        "size": 76097
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0003-ใบรับเอกสาร.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\ใบรับเอกสาร-a0706043\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:49.201Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "ef354f37-c954-4973-beec-11b4745a1c91",
+    "issuer": "BBB",
+    "symbol": "BBB",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "BBB - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-20T16:51:18.781Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261120-0003-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-20T16:51:18.783Z",
+        "size": 66883
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0003-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "BBB-3e744b9d\\BBB-3e744b9d\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v2.pdf",
+        "uploadedAt": "2026-11-20T17:30:49.213Z",
+        "size": 67065
+      }
+    ]
+  },
+  {
+    "id": "1a382bb8-bdf1-4d53-add1-c8b357329759",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "TBKO - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T02:37:35.115Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:35.119Z",
+        "size": 186488
+      },
+      {
+        "version": "v2",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:52.255Z",
+        "size": 186488
+      },
+      {
+        "version": "v3",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:26.870Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "62f9eb78-234c-42b1-b9db-e99b60a3ac18",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TBKO - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T02:37:35.147Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:35.150Z",
+        "size": 160710
+      },
+      {
+        "version": "v2",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:52.272Z",
+        "size": 160710
+      },
+      {
+        "version": "v3",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:26.977Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "b4737790-0bcc-491b-80a0-9cdbedc184bb",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TBKO - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T02:37:35.227Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:35.229Z",
+        "size": 24002
+      },
+      {
+        "version": "v2",
+        "fileName": "ปชช.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:52.287Z",
+        "size": 24002
+      },
+      {
+        "version": "v3",
+        "fileName": "ปชช.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:27.224Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "f769153c-3a3a-4545-a6cd-32a5d753f7b9",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TBKO - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T02:37:35.244Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:35.246Z",
+        "size": 32074
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:52.303Z",
+        "size": 32074
+      },
+      {
+        "version": "v3",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:27.307Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "cc65b9d6-cc94-412a-a6bb-7260bc7b46ed",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "TBKO - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T02:37:35.260Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:35.261Z",
+        "size": 28559
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:52.317Z",
+        "size": 28559
+      },
+      {
+        "version": "v3",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:27.456Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "346ed141-66b7-41a7-be4c-c341fabc6adf",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "ใบรับเอกสาร",
+    "title": "TBKO - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T02:37:52.447Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0028-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:52.448Z",
+        "size": 76097
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0028-ใบรับเอกสาร.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\ใบรับเอกสาร-a0706043\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:54.415Z",
+        "size": 76097
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261121-0028-ใบรับเอกสาร.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\ใบรับเอกสาร-a0706043\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:36.072Z",
+        "size": 118350
+      }
+    ]
+  },
+  {
+    "id": "9e15d2dd-6d41-4c7f-aea3-c48bad5a67fc",
+    "issuer": "TBKO",
+    "symbol": "TBKO",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "TBKO - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T02:37:52.458Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0028-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T02:37:52.459Z",
+        "size": 72500
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0028-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:06:54.434Z",
+        "size": 72415
+      },
+      {
+        "version": "v3",
+        "fileName": "DOC-20261121-0028-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v3.pdf",
+        "storagePath": "TBKO-58f7cff6\\TBKO-58f7cff6\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v3.pdf",
+        "uploadedAt": "2026-11-21T03:35:36.510Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "1134081b-7d7b-47db-bc66-4851f2146c00",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "TTTT - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T03:48:45.316Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:45.319Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "9eff4276-3a3e-4f4b-a896-41d318d19739",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TTTT - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:48:45.332Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:45.334Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "cfd1fcc4-7873-4073-960a-18c6c18aed96",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TTTT - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:48:45.344Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:45.346Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "c59fe518-a35b-464a-a7c8-20e0914f1650",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "TTTT - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:48:45.357Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:45.358Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "e33b8278-cc04-4ba3-8d32-cfb66c13d7dd",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "TTTT - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T03:48:45.368Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:45.369Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "1db301ec-e8a6-4b6d-b245-e885929568a9",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "ใบรับเอกสาร",
+    "title": "TTTT - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T03:48:47.113Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0029-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:47.114Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "13efd62f-92d3-485c-8dd9-f04c13247778",
+    "issuer": "TTTT",
+    "symbol": "TTTT",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "TTTT - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T03:48:47.124Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0029-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "TTTT-b23fcb88\\TTTT-b23fcb88\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:48:47.125Z",
+        "size": 68149
+      }
+    ]
+  },
+  {
+    "id": "7dfab114-11e7-4212-9fc5-09997f8d9c01",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "KFKFKF - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T03:52:35.825Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:35.829Z",
+        "size": 186488
+      },
+      {
+        "version": "v2",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:13.290Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "8776b843-8cc0-4cb2-a7d3-89d1a1615b24",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "KFKFKF - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:52:35.848Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:35.850Z",
+        "size": 160710
+      },
+      {
+        "version": "v2",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:13.313Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "e9ea365d-3ef2-464e-911d-09749e205e6f",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "KFKFKF - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:52:35.865Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:35.868Z",
+        "size": 24002
+      },
+      {
+        "version": "v2",
+        "fileName": "ปชช.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:13.379Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "ddb7a686-c9d7-4260-a082-ff40afd5e62e",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "KFKFKF - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T03:52:35.883Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:35.884Z",
+        "size": 32074
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:13.394Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "44cd955c-1348-4e8e-8fc4-2594cd0a3829",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "KFKFKF - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T03:52:35.899Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:35.902Z",
+        "size": 28559
+      },
+      {
+        "version": "v2",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:13.412Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "afe45cbb-5916-4db8-a039-07cc6ab70681",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "ใบรับเอกสาร",
+    "title": "KFKFKF - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T03:52:37.641Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0030-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:37.642Z",
+        "size": 76097
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0030-ใบรับเอกสาร.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\ใบรับเอกสาร-a0706043\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:15.155Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "e91c0500-ff24-4b88-a8bd-d8f057c800e3",
+    "issuer": "KFKFKF",
+    "symbol": "KFKFKF",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "KFKFKF - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T03:52:37.653Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0030-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T03:52:37.654Z",
+        "size": 68282
+      },
+      {
+        "version": "v2",
+        "fileName": "DOC-20261121-0030-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v2.pdf",
+        "storagePath": "KFKFKF-51d2cf25\\KFKFKF-51d2cf25\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v2.pdf",
+        "uploadedAt": "2026-11-21T03:59:15.166Z",
+        "size": 69023
+      }
+    ]
+  },
+  {
+    "id": "487a13a3-4ae4-45ae-a939-099ab55064d7",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "PPP - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T04:21:25.838Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:25.841Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "904c229b-2b09-4e11-a26e-07efc059755b",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "PPP - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T04:21:25.858Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:25.860Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "b801723f-f42e-4af0-a7fb-13afd1b4f6ff",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "PPP - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T04:21:25.875Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:25.877Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "95664ae3-f626-4f05-b5ec-1c84104ff604",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "PPP - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T04:21:25.890Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:25.892Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "deef2ae8-1062-40e3-9fc1-b23061d248dd",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "PPP - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T04:21:25.907Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:25.909Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "c6980a70-064e-4592-95c8-4373578dd79a",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "ใบรับเอกสาร",
+    "title": "PPP - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T04:21:27.706Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0031-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:27.707Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "77c90f82-a8e4-425e-8a89-159da0429486",
+    "issuer": "PPP",
+    "symbol": "PPP",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "PPP - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T04:21:27.716Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0031-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "PPP-c4289629\\PPP-c4289629\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T04:21:27.717Z",
+        "size": 67462
+      }
+    ]
+  },
+  {
+    "id": "4483a368-bbcd-45d9-be9d-21666b0069a2",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "lll - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T05:11:54.878Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:54.881Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "14a731af-aaea-4424-8488-fa2d2a043671",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "lll - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:11:54.894Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:54.896Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "3103ef1a-0c4c-4880-bd71-db0098b0a167",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "lll - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:11:54.910Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:54.911Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "5327ce2d-e1f9-4f08-8fed-0dfacba1cdf5",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "lll - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:11:54.927Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:54.929Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "73351543-652b-49b3-a2b8-ec055dca5473",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "lll - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T05:11:54.955Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:54.957Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "8fac793e-703d-4263-a92d-2fc4356f9d14",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "ใบรับเอกสาร",
+    "title": "lll - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T05:11:57.205Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0032-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:57.207Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "c54a1d26-b02f-44c4-911a-8b2c98ed865b",
+    "issuer": "ggg",
+    "symbol": "lll",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "lll - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T05:11:57.221Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0032-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "ggg-569c7f0b\\lll-caa22ef5\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:11:57.223Z",
+        "size": 58724
+      }
+    ]
+  },
+  {
+    "id": "0e6d2b27-b6fd-45fa-bb28-fd4e986f02f5",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "oooo - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T05:19:27.323Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:27.327Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "323d49f2-961d-48c6-9360-5ded6f0eaa9d",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "oooo - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:19:27.355Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:27.394Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "5ea3277c-8576-4d0b-9937-b977fade0d22",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "oooo - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:19:27.444Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:27.446Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "2bb754d4-f0da-4755-8fbb-c1e7fae72e54",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "oooo - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T05:19:27.461Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:27.462Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "19809e94-ddce-4c72-a1a4-0ba7a6b6f6fb",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "oooo - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T05:19:27.477Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:27.479Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "e947189b-9d25-46a4-86cc-b87b54885e02",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "ใบรับเอกสาร",
+    "title": "oooo - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T05:19:29.364Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0033-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:29.366Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "f5ae8792-0f53-48bd-9692-6623fc5cd3bc",
+    "issuer": "oooo",
+    "symbol": "oooo",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "oooo - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T05:19:29.384Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0033-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "oooo-74bd50f9\\oooo-74bd50f9\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T05:19:29.385Z",
+        "size": 58657
+      }
+    ]
+  },
+  {
+    "id": "10fbfc1a-99aa-4e20-a42d-f15d3f5d5020",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "abc - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T06:30:39.085Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:39.088Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "a7c379eb-17c8-43d1-80e8-d9d3495bdbed",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:30:39.105Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:39.107Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "6a2fe915-6c2c-4928-9ca9-038ee77bc53f",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:30:39.121Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:39.123Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "c721b0f6-2e92-472d-b8d0-e883eeb657e4",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:30:39.136Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:39.138Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "859b744a-7b00-42a6-815d-54e93bec9a5e",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "abc - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T06:30:39.153Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:39.155Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "061fa682-2099-4f55-a12a-7dabf7fe9d05",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "ใบรับเอกสาร",
+    "title": "abc - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T06:30:40.883Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0027-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:40.884Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "a79e3a1f-1cb9-47ca-8874-b4423ec72d5d",
+    "issuer": "baron",
+    "symbol": "abc",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "abc - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T06:30:40.898Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0027-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "baron-99c2bb3e\\abc-ba7816bf\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:30:40.899Z",
+        "size": 59402
+      }
+    ]
+  },
+  {
+    "id": "afeaf403-fe3b-471d-9e18-83971a314239",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "title": "abc - หนังสือชี้ชวน / ข้อกำหนดสิทธิของตราสาร",
+    "createdAt": "2026-11-21T06:33:49.986Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือชี้ชวน.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\หนังสือชี้ชวน-ข้อกำหนดสิทธิของตราสาร-e9d42bd5\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:49.989Z",
+        "size": 186488
+      }
+    ]
+  },
+  {
+    "id": "979af337-a4d3-4bc2-b279-55e4ba89b58e",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนาหนังสือรับรองบริษัท (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:33:50.003Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "หนังสือรับรองบริษัท-หน้า-1.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\สำเนาหนังสือรับรองบริษัท-(ลงนามรับรองสำเนาถูกต้อง)-7f125eee\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:50.005Z",
+        "size": 160710
+      }
+    ]
+  },
+  {
+    "id": "40906c2b-b3f7-499f-831b-36cf8ab7f3d9",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:33:50.015Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "ปชช.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\สำเนาบัตรประจำตัวประชาชนของผู้มีอำนาจลงนาม-(ลงนามรับรองสำเนา-f4014578\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:50.016Z",
+        "size": 24002
+      }
+    ]
+  },
+  {
+    "id": "1d1ebffe-2365-471e-b237-7010e00e585c",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "title": "abc - สำเนามติที่ประชุมคณะกรรมการ / ผู้ถือหุ้น (ลงนามรับรองสำเนาถูกต้อง)",
+    "createdAt": "2026-11-21T06:33:50.025Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนามติที่ประชุมคณะกรรมการ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\สำเนามติที่ประชุมคณะกรรมการ-ผู้ถือหุ้น-(ลงนามรับรองสำเนาถูกต-80929238\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:50.027Z",
+        "size": 32074
+      }
+    ]
+  },
+  {
+    "id": "a5ea878d-d419-4ce0-9f3b-9330873c81a9",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "title": "abc - สำเนาหนังสือมอบอำนาจ (กรณีมีการมอบอำนาจ)",
+    "createdAt": "2026-11-21T06:33:50.035Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "สำเนาหนังสือมอบอำนาจ.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\สำเนาหนังสือมอบอำนาจ-(กรณีมีการมอบอำนาจ)-216c7d7c\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:50.036Z",
+        "size": 28559
+      }
+    ]
+  },
+  {
+    "id": "aac5adf2-a493-46dc-9a92-05f7970ac8aa",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "ใบรับเอกสาร",
+    "title": "abc - ใบรับเอกสาร",
+    "createdAt": "2026-11-21T06:33:51.757Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0034-ใบรับเอกสาร.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\ใบรับเอกสาร-a0706043\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:51.758Z",
+        "size": 76097
+      }
+    ]
+  },
+  {
+    "id": "168bc27c-3388-49f4-a675-12ab7d4c549a",
+    "issuer": "abc",
+    "symbol": "abc",
+    "documentType": "แบบข้อมูลตราสารหนี้",
+    "title": "abc - แบบข้อมูลตราสารหนี้",
+    "createdAt": "2026-11-21T06:33:51.767Z",
+    "versions": [
+      {
+        "version": "v1",
+        "fileName": "DOC-20261121-0034-แบบข้อมูลตราสารหนี้.pdf",
+        "storedName": "v1.pdf",
+        "storagePath": "abc-ba7816bf\\abc-ba7816bf\\แบบข้อมูลตราสารหนี้-0f01ddb9\\v1.pdf",
+        "uploadedAt": "2026-11-21T06:33:51.769Z",
+        "size": 59234
+      }
+    ]
+  }
+]
